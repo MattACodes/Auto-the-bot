@@ -1,0 +1,18 @@
+{
+  "name": "a-bot-called-auto",
+  "version": "1.0.0",
+  "description": "A discord bot custom created for servers that Matthew manages.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Matthew",
+  "license": "ISC"
+}
